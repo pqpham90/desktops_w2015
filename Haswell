@@ -1,0 +1,141 @@
+CPU
+{
+	Intel Core i5-4690K 3.5GHz
+	Micro Center
+	$179.99 ($194.84 w/ Tax)
+
+	Intel Core i5-4590 3.3GHz
+	Micro Center
+	$159.99 ($173.19 w/ Tax)
+
+	Intel i3-4370 3.8GHz
+	Micro Center
+	$139.99 ($151.54 w/ Tax)
+}
+
+Heatsink
+{
+	Cooler Master Hyper 212 EVO
+	newegg
+	$29.99 ($24.99 AR)
+
+	Thermaltake NiC C5 (CLP0608) 
+	newegg
+	$49.99
+}
+
+
+Motherboard
+{
+	MSI Z97 PC Mate
+	Micro Center
+	$89.99 (97.41 w/  tax) ($87.41 AR) ($67.41 After Promo w/ K CPU)
+
+	GIGABYTE GA-B85M-DS3H-A (Micro ATX)
+	newegg
+	$64.99 ($54.99)
+}
+
+RAM
+{
+	G.SKILL Ripjaws X Series 8GB (2 x 4GB) F3-2400C11D-8GXM
+	newegg
+	$44.99
+
+	G.SKILL Ripjaws X Series 8GB (2 x 4GB) F3-12800CL9D-8GBXL
+	newegg
+	$29.99
+}
+
+System Drive
+{
+	SAMSUNG 850 EVO 2.5" 250GB
+	newegg
+	$87.59
+
+	SAMSUNG 850 EVO 2.5" 120GB
+	newegg
+	$67.99
+
+	SanDisk Ultra II 2.5" 120GB Revision 3.0 
+	newegg
+	$54.99
+
+	WD Black 1TB Performance WD1003FZEX
+	newegg
+	$69.99
+}
+
+Case
+{
+	http://www.newegg.com/Product/Product.aspx?Item=11-129-180
+	Antec Three Hundred Two
+	newegg
+	$69.99 ($59.99 AR)
+
+	http://www.newegg.com/Product/Product.aspx?Item=N82E16811139011&ignorebbr=1
+	Corsair Carbide Series 300R
+	newegg
+	$69.99 ($59.99 AR)
+
+	http://www.newegg.com/Computer-Cases/SubCategory/ID-7?Order=REVIEWS
+}
+
+PSU
+{
+	CORSAIR CX series CX600M 
+	newegg
+	$64.99 ($54.99 AR)
+}
+
+Monitor
+{
+	Asus VH238H 23.0" Monitor
+	newegg
+	$139.49 (After Promo Code) ($119.49 AR)
+}
+
+GPU
+{
+	MSI GeForce GTX 960 DirectX 12 GTX 960 4GD5T OC 4GB
+	newegg
+	$199.99 ($179.99 AR)
+}
+
+Overclock
+{
+	$679.29
+	{
+		Highest options selected
+		+GPU: 859.28
+	}
+
+	$634.69
+	{
+		Smaller SSD (SAMSUNG 850 EVO 120GB)
+		Weaker heatsink (Cooler Master Hyper 212 EVO)
+		+GPU: $814.68
+	}
+}
+
+Non_Overclock
+{
+	585.04
+	{
+		Intel Core i5-4590
+		Cooler Master Hyper 212 EVO
+		GIGABYTE GA-B85M-DS3H-A
+		F3-12800CL9D-8GBXL
+		SanDisk Ultra II 120GB
+		+GPU: $765.03
+	}
+}
+
+El_Cheapo
+{
+	$550.97
+	{
+		Lowest options selected
+		+GPU: $730.96
+	}
+}

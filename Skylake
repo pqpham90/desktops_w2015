@@ -1,0 +1,140 @@
+CPU
+{
+	Intel Core i5-6600K 3.5GHz
+	Micro Center
+	$219.99 ($238.14 w/ tax)
+
+	Intel Core i5-6500 3.2GHz
+	Micro Center
+	$199.99 ($216.49 w/ tax)
+
+	Intel Core i3-6300
+	Micro Center
+	$159.99 ($173.19 w/ tax)
+}
+
+Heatsink
+{
+	Cooler Master Hyper 212 EVO
+	newegg
+	$29.99 ($24.99 AR)
+
+	Thermaltake NiC C5 (CLP0608) 
+	newegg
+	$49.99
+}
+
+Motherboard
+{
+	Gigabyte GA-Z170-HD3P
+	Micro Center
+	$109.99 ($119.06 w/ tax) ($99.06 AR) ($79.06 After Promo w/ K CPU)
+
+	MSI H110M Pro-VD (Micro ATX)
+	newegg
+	$55.99
+}
+
+RAM
+{
+	G.SKILL Ripjaws V Series 8GB (2 x 4GB) F4-3000C15D-8GVR
+	newegg
+	$60.99
+
+	G.SKILL Ripjaws V Series 8GB (2 x 4GB) F4-2133C15D-8GVR
+	newegg
+	$44.99
+}
+
+System Drive
+{
+	SAMSUNG 850 EVO 2.5" 250GB
+	newegg
+	$87.59
+
+	SAMSUNG 850 EVO 2.5" 120GB
+	newegg
+	$67.99
+
+	SanDisk Ultra II 2.5" 120GB Revision 3.0 
+	newegg
+	$54.99
+
+	WD Black 1TB Performance WD1003FZEX
+	newegg
+	$69.99
+}
+
+Case
+{
+	http://www.newegg.com/Product/Product.aspx?Item=11-129-180
+	Antec Three Hundred Two
+	newegg
+	$69.99 ($59.99 AR)
+
+	http://www.newegg.com/Product/Product.aspx?Item=N82E16811139011&ignorebbr=1
+	Corsair Carbide Series 300R
+	newegg
+	$69.99 ($59.99 AR)
+
+	http://www.newegg.com/Computer-Cases/SubCategory/ID-7?Order=REVIEWS
+}
+
+PSU
+{
+	CORSAIR CX series CX600M 
+	newegg
+	$64.99 ($54.99 AR)
+}
+
+Monitor
+{
+	Asus VH238H 23.0" Monitor
+	newegg
+	$139.49 (After Promo Code) ($119.49 AR)
+}
+
+GPU
+{
+	MSI GeForce GTX 960 DirectX 12 GTX 960 4GD5T OC 4GB
+	newegg
+	$199.99 ($179.99 AR)
+}
+
+Overclock
+{
+	$750.24
+	{
+		Highest options selected
+		+GPU: $930.23
+	}
+
+	$705.64
+	{
+		Smaller SSD (SAMSUNG 850 EVO 120GB)
+		Weaker heatsink (Cooler Master Hyper 212 EVO)
+		+GPU: 885.63
+	}
+}
+
+Non_Overclock
+{
+	$631.92
+	{
+		Intel Core i5-6500
+		Cooler Master Hyper 212 EVO
+		MSI H110M Pro-VD
+		F4-2133C15D-8GVR
+		SanDisk Ultra II 120GB
+		+GPU: $811.91
+	}
+}
+
+El_Cheapo
+{
+	$588.62
+	{
+		Lowest options selected
+		+GPU: 768.61
+	}
+}
